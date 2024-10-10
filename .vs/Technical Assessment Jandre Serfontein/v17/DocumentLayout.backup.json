@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jandr\\OneDrive\\Desktop\\Technical Assessment Jandre Serfontein\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38E8EE02-A0D8-4EAC-BDCD-68B3F5513483}|Technical Assessment Jandre Serfontein.csproj|c:\\users\\jandr\\onedrive\\desktop\\technical assessment jandre serfontein\\models\\wordfrequencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E8EE02-A0D8-4EAC-BDCD-68B3F5513483}|Technical Assessment Jandre Serfontein.csproj|solutionrelative:models\\wordfrequencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E8EE02-A0D8-4EAC-BDCD-68B3F5513483}|Technical Assessment Jandre Serfontein.csproj|c:\\users\\jandr\\onedrive\\desktop\\technical assessment jandre serfontein\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E8EE02-A0D8-4EAC-BDCD-68B3F5513483}|Technical Assessment Jandre Serfontein.csproj|solutionrelative:controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E8EE02-A0D8-4EAC-BDCD-68B3F5513483}|Technical Assessment Jandre Serfontein.csproj|c:\\users\\jandr\\onedrive\\desktop\\technical assessment jandre serfontein\\models\\wordfrequency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E8EE02-A0D8-4EAC-BDCD-68B3F5513483}|Technical Assessment Jandre Serfontein.csproj|solutionrelative:models\\wordfrequency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E8EE02-A0D8-4EAC-BDCD-68B3F5513483}|Technical Assessment Jandre Serfontein.csproj|c:\\users\\jandr\\onedrive\\desktop\\technical assessment jandre serfontein\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E8EE02-A0D8-4EAC-BDCD-68B3F5513483}|Technical Assessment Jandre Serfontein.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 357,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController1.cs",
+              "DocumentMoniker": "C:\\Users\\jandr\\OneDrive\\Desktop\\Technical Assessment Jandre Serfontein\\Controllers\\HomeController1.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController1.cs",
+              "ToolTip": "C:\\Users\\jandr\\OneDrive\\Desktop\\Technical Assessment Jandre Serfontein\\Controllers\\HomeController1.cs",
+              "RelativeToolTip": "Controllers\\HomeController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:14:33.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordFrequencyService.cs",
+              "DocumentMoniker": "C:\\Users\\jandr\\OneDrive\\Desktop\\Technical Assessment Jandre Serfontein\\Models\\WordFrequencyService.cs",
+              "RelativeDocumentMoniker": "Models\\WordFrequencyService.cs",
+              "ToolTip": "C:\\Users\\jandr\\OneDrive\\Desktop\\Technical Assessment Jandre Serfontein\\Models\\WordFrequencyService.cs",
+              "RelativeToolTip": "Models\\WordFrequencyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:10:30.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordFrequency.cs",
+              "DocumentMoniker": "C:\\Users\\jandr\\OneDrive\\Desktop\\Technical Assessment Jandre Serfontein\\Models\\WordFrequency.cs",
+              "RelativeDocumentMoniker": "Models\\WordFrequency.cs",
+              "ToolTip": "C:\\Users\\jandr\\OneDrive\\Desktop\\Technical Assessment Jandre Serfontein\\Models\\WordFrequency.cs",
+              "RelativeToolTip": "Models\\WordFrequency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:09:34.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jandr\\OneDrive\\Desktop\\Technical Assessment Jandre Serfontein\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jandr\\OneDrive\\Desktop\\Technical Assessment Jandre Serfontein\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:25:45.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
